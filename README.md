@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I am a results-driven professional with a BBA in Marketing, aspiring to become a Business Analyst and Consultant. Passionate about data-driven decision-making, market research, and business process optimization, I leverage tools like SQL, Power BI, Python, and Excel to analyze trends and enhance operational efficiency.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
