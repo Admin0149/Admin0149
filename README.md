@@ -46,14 +46,26 @@
 ## 🔗 Connect with me:
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Resume logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+  
+  <a href="https://www.linkedin.com/in/aditya-sharma-429414278/" target="_blank">
+   <img src="https://img.shields.io/static/v1?message=Resume&logo=Resume&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Resume logo"  />
+</a>
+
+<a href="https://www.linkedin.com/in/aditya-sharma-429414278/" target="_blank">
+   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+</a>
+
+  <a href="https://www.linkedin.com/in/aditya-sharma-429414278/" target="_blank">
+   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+</a>
 
 <a href="https://www.linkedin.com/in/aditya-sharma-429414278/" target="_blank">
    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </a>
+
+</div>
+
+
+[![Resume](https://upload.wikimedia.org/wikipedia/commons/e/ec/CV_resume_icon.svg)](https://1drv.ms/b/c/6e2b2440d141f1c7/EcKhaw9ec0VFo_eCTyQU1soBWNrtfMIOJ8NeO0KrPgc_OQ?e=WRQGnO)
 
 
