@@ -38,13 +38,17 @@
 </div>
 <br><br>
 
-## 💼 Experience:
 
+## 💼 Experience:
+<p style="font-size: 24px;">
+  
 **Data Analysts**(6 months): Hands-on experience with data managements.
 
 **Data Driven Educator** (1.5 years): Strong communication and analytical skills, mentoring students in business and technology subjects.
 <br><br>
 
+</p>
+  
 ###
 
 ## 🔗 Connect with me:
