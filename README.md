@@ -14,15 +14,13 @@ I am a results-driven professional with a BBA in Marketing, aspiring to become a
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="30" alt="typescript logo"  />
   <img width="12" />
-  <img src="" height="30" alt="react logo"  />
+  <img src="https://github.com/user-attachments/assets/3ee30f93-8f31-4056-865b-506725bcc546" height="30" alt="microsoft_office_excel"  />
   <img width="12" />
   <img src="https://th.bing.com/th?id=OSK.a7177a97eea720a74a2020d18260a6a0&w=46&h=46&c=11&rs=1&qlt=80&o=6&dpr=1.3&pid=SANGAM" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" height="30" alt="css3 logo"  />
   <img width="12" />
-  <img src="" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="" height="30" alt="csharp logo"  />
+ 
 </div>
 
 ###
