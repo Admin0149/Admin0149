@@ -47,7 +47,7 @@
 
 <div align="left">
   
-  <a href="https://www.linkedin.com/in/aditya-sharma-429414278/" target="_blank">
+  <a href="https://github.com/Admin0149/Admin0149/blob/main/My%20Resume.pdf" target="_blank">
    <img src="https://img.shields.io/static/v1?message=Resume&logo=Resume&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Resume logo"  />
 </a>
 
