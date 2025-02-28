@@ -66,6 +66,6 @@
 </div>
 
 
-[![Resume](https://upload.wikimedia.org/wikipedia/commons/e/ec/CV_resume_icon.svg)](https://1drv.ms/b/c/6e2b2440d141f1c7/EcKhaw9ec0VFo_eCTyQU1soBWNrtfMIOJ8NeO0KrPgc_OQ?e=WRQGnO)
+
 
 
