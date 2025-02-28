@@ -52,12 +52,12 @@
    <img src="https://github.com/user-attachments/assets/bcd18df5-bed3-41a9-b0ba-e6bc9ac456c3" height="85" alt="Resume logo"  />
 </a></td>&nbsp;&nbsp;
 
- <td><a href="https://www.linkedin.com/in/aditya-sharma-429414278/" target="_blank">
+ <td><a href="https://www.instagram.com/theadmin2621/?next=%2F" target="_blank">
    <img src="https://github.com/user-attachments/assets/c2e68357-ea95-4f2f-aab5-873148e64216" height="85" alt="Instagram logo" />
 </a></td>&nbsp;&nbsp;
 
 
-   <td><a href="https://www.linkedin.com/in/aditya-sharma-429414278/" target="_blank">
+   <td><a href="mailto:adityami149@gmail.com" target="_blank">
    <img src="https://github.com/user-attachments/assets/0c8e2fdd-f95f-4801-b57a-bdfdef09a4c8" height="85" alt="gmail logo" />
 </a></td>&nbsp;&nbsp;
 
