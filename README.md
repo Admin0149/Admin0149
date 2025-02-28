@@ -45,31 +45,28 @@
 
 ## 🔗 Connect with me:
 
-<div align="left">
-  
-  <a href="https://github.com/Admin0149/Admin0149/blob/main/My%20Resume.pdf" target="_blank">
-   <img src="https://github.com/user-attachments/assets/eb8ce9ec-113d-4cd6-80f0-831a50c0256e" height="55" alt="Resume logo"  />
-</a>
+<div align = "Center">
+  <table>
+  <tr>
+ <td><a href="https://github.com/Admin0149/Admin0149/blob/main/My%20Resume.pdf" target="_blank">
+   <img src="https://github.com/user-attachments/assets/bcd18df5-bed3-41a9-b0ba-e6bc9ac456c3" height="85" alt="Resume logo"  />
+</a></td>&nbsp;&nbsp;
+
+ <td><a href="https://www.linkedin.com/in/aditya-sharma-429414278/" target="_blank">
+   <img src="https://github.com/user-attachments/assets/c2e68357-ea95-4f2f-aab5-873148e64216" height="85" alt="Instagram logo" />
+</a></td>&nbsp;&nbsp;
 
 
-<a href="https://www.linkedin.com/in/aditya-sharma-429414278/" target="_blank">
-   <img src="https://github.com/user-attachments/assets/a7a794f8-e8df-48f1-8812-6d1b9f34cb9c" height="60" alt="instagram logo"  />
-</a>
+   <td><a href="https://www.linkedin.com/in/aditya-sharma-429414278/" target="_blank">
+   <img src="https://github.com/user-attachments/assets/0c8e2fdd-f95f-4801-b57a-bdfdef09a4c8" height="85" alt="gmail logo" />
+</a></td>&nbsp;&nbsp;
 
 
-  <a href="https://www.linkedin.com/in/aditya-sharma-429414278/" target="_blank">
-   <img src="https://github.com/user-attachments/assets/8069db6e-fd48-4fc6-990e-a41048ceea1c" height="60" alt="gmail logo"  />
-</a>
-
-
-<a href="https://www.linkedin.com/in/aditya-sharma-429414278/" target="_blank">
-   <img src="https://github.com/user-attachments/assets/27dba624-d3b8-4d73-9dd1-26a83f16f4e2" height="50" alt="linkedin logo"  />
-</a>
-
+ <td><a href="https://www.linkedin.com/in/aditya-sharma-429414278/" target="_blank">
+   <img src="https://github.com/user-attachments/assets/9fd2f5d3-5103-4463-8289-266e480c705e" height="85" alt="linkedin logo"  />
+</a></td>&nbsp;&nbsp;
+ </tr>
+</table>
 
 </div>
-
-
-
-
 
