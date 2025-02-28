@@ -71,7 +71,7 @@
 
 
  <td><a href="https://www.linkedin.com/in/aditya-sharma-429414278/" target="_blank">
-   <img src="https://github.com/user-attachments/assets/9fd2f5d3-5103-4463-8289-266e480c705e" height="85" alt="linkedin logo"  />
+   <img src="https://github.com/user-attachments/assets/9fd2f5d3-5103-4463-8289-266e480c705e" height="70" alt="linkedin logo"  />
 </a></td>&nbsp;&nbsp;
  </tr>
 </table>
