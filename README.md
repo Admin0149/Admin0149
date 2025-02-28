@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aditya Sharma!
 
->**I am a results-driven professional with a BBA in Marketing, aspiring to become a Business Analyst and Consultant. Passionate about data-driven decision-making, market research, and business process optimization, I leverage tools like SQL, Power BI, Python, and Excel to analyze trends and enhance operational efficiency.**
+>**<h3>I am a results-driven professional with a BBA in Marketing, aspiring to become a Business Analyst and Consultant. Passionate about data-driven decision-making, market research, and business process optimization, I leverage tools like SQL, Power BI, Python, and Excel to analyze trends and enhance operational efficiency.</h3>**
 <p align="center">
 <img height="200" src="https://cdn.dribbble.com/users/8619169/screenshots/16116886/media/a63d64bcccad878cb9dfdb9a9f6b6416.gif"  />
 </p>
@@ -9,6 +9,8 @@
 
 ## 🛠️ SKILLS  
 
+<p style="font-size: 24px;">
+  
 **Programming Languages**: Python, SQL 
 
 **Software & Frameworks**: Excel, PowerPoint, SQL Server Management Studio (SSMS), MySQL, SQLite, MongoDB, Power BI, Tableau, Pandas,NumPy 
@@ -18,6 +20,8 @@
 **Soft Skills**: Rapport building, Stakeholder management, People management, Effective communication, Decision making, Critical thinking,Problem solving, Quick learner, Time management, Positive attitude and aptitude 
 
 **Additional Skills**: ETL, Project management, Agile methodology & scrum, Data mapping, Data warehousing, Data mining and analytics 
+<br><br>
+</p>
 
 <div align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" height="40" alt="javascript logo"  />
