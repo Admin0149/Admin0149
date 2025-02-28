@@ -48,20 +48,24 @@
 <div align="left">
   
   <a href="https://github.com/Admin0149/Admin0149/blob/main/My%20Resume.pdf" target="_blank">
-   <img src="https://img.shields.io/static/v1?message=Resume&logo=Resume&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Resume logo"  />
+   <img src="https://github.com/user-attachments/assets/eb8ce9ec-113d-4cd6-80f0-831a50c0256e" height="55" alt="Resume logo"  />
 </a>
 
+
 <a href="https://www.linkedin.com/in/aditya-sharma-429414278/" target="_blank">
-   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+   <img src="https://github.com/user-attachments/assets/a7a794f8-e8df-48f1-8812-6d1b9f34cb9c" height="60" alt="instagram logo"  />
 </a>
+
 
   <a href="https://www.linkedin.com/in/aditya-sharma-429414278/" target="_blank">
-   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+   <img src="https://github.com/user-attachments/assets/8069db6e-fd48-4fc6-990e-a41048ceea1c" height="60" alt="gmail logo"  />
 </a>
 
+
 <a href="https://www.linkedin.com/in/aditya-sharma-429414278/" target="_blank">
-   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+   <img src="https://github.com/user-attachments/assets/27dba624-d3b8-4d73-9dd1-26a83f16f4e2" height="50" alt="linkedin logo"  />
 </a>
+
 
 </div>
 
