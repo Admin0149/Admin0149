@@ -42,9 +42,12 @@
 ## 💼 Experience:
 <p style="font-size: 24px;">
   
-**Data Analysts**(6 months): Hands-on experience with data managements.
+**Data Analysts Internship**(6 months): Hands-on experience with data managements.
 
-**Data Driven Educator** (1.5 years): Strong communication and analytical skills, mentoring students in business and technology subjects.
+**Data-Driven Analyst** (1.5 years): Strong communication and analytical skills, mentoring students in business and technology subjects.
+
+**Business Development Associate**(4 month): Demonstrated strong communication skills by resolving customer queries efficiently and providing timely 
+solutions across multiple channels by maintaining a customer satisfaction.
 <br><br>
 
 </p>
