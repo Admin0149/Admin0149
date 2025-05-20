@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aditya Sharma!
 
->**<h3>I am a results-driven professional with a BBA in Marketing, aspiring to become a Business Analyst and Consultant. Passionate about data-driven decision-making, market research, and business process optimization, I leverage tools like SQL, Power BI, Python, and Excel to analyze trends and enhance operational efficiency.</h3>**
+>**<h3>I am a results-driven professional with a BBA in Marketing, aspiring to become a Business Analyst/Project manager. Passionate about data-driven decision-making, market research, and business process optimization, I leverage different tools to analyze trends and enhance operational efficiency.</h3>**
 <p align="center">
 <img height="200" src="https://cdn.dribbble.com/users/8619169/screenshots/16116886/media/a63d64bcccad878cb9dfdb9a9f6b6416.gif"  />
 </p>
@@ -13,13 +13,15 @@
   
 **Programming Languages**: Python, SQL 
 
-**Software & Frameworks**: Excel, PowerPoint, SQL Server Management Studio (SSMS), MySQL, SQLite, MongoDB, Power BI, Tableau, Pandas,NumPy 
+**Software & Frameworks**: SQL Server Management Studio (SSMS), MySQL, SQLite, MongoDB, Pandas,NumPy 
+
+**Project Tools**: Excel, PowerPoint, Power BI, JIRA, Asana, Trello, Gantt Charts, MS Project, MS Project/outlook
 
 **Development Platforms & IDEs**:  PyCharm, Jupyter Notebook, Visual Studio Code, Cursor 
 
-**Soft Skills**: Rapport building, Stakeholder management, People management, Effective communication, Decision making, Critical thinking,Problem solving, Quick learner, Time management, Positive attitude and aptitude 
+**Soft Skills**: Stakeholder coordination, Team guidance, Clear communication, Task planning, Information analysis, Relationship building, Decision support, Issue resolution, Goal orientation, Charts, Risk Register, Dashboard, cross-functional team support, risk mitigation 
 
-**Additional Skills**: ETL, Project management, Agile methodology & scrum, Data mapping, Data warehousing, Data mining and analytics 
+**Project Management**: Six Sigma Principles, Agile, Scrum, Waterfall, Project Charter, WBS, Risk Register, Budget Tracking, Schedule Planning, Data mining and analytics, Project Charter, Project Lifecycle, Meeting agenda report, Schedule planning, Stakeholder Register, Budget Tracking
 <br><br>
 </p>
 
@@ -44,7 +46,7 @@
   
 **Data Analysts Internship**(6 months): Hands-on experience with data managements.
 
-**Data-Driven Analyst** (1.5 years): Strong communication and analytical skills, mentoring students in business and technology subjects.
+**Independent Data Analyst** (1.5 years): Strong communication and analytical skills, mentoring students in business and technology subjects.
 
 **Business Development Associate**(4 month): Demonstrated strong communication skills by resolving customer queries efficiently and providing timely 
 solutions across multiple channels by maintaining a customer satisfaction.
